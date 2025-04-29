@@ -14,15 +14,15 @@
 
 ## 🚀 Projects
 
-### 📬 [Chitthi – Realtime Chat App](https://github.com/zakirkhan/chitthi)  
+### 📬 [Chitthi – Realtime Chat App](https://chitthi-nu.vercel.app/)  
 A full-fledged MERN chat app with authentication, Socket.IO-based messaging, private rooms, and a responsive design.  
 ✅ File, image, and text messaging | ✅ Avatar support | ✅ OTP email verification (coming soon)
 
-### 📝 [Blogify](https://github.com/zakirkhan/blogify)  
+### 📝 [Blogs & Bloggers](https://github.com/Zakir2855/Blogs-Bloggers)  
 A clean blog app built with the MERN stack, featuring CRUD functionality and a beautiful UI.  
 ✅ Markdown support | ✅ JWT authentication | ✅ Full-stack
 
-### 📦 [GitHub Repo Explorer](https://github.com/zakirkhan/github-repo-explorer)  
+### 📦 [GitHub Repo Explorer](https://zakir2855-git-hub-repo-explorer.vercel.app/)  
 An app to search and explore GitHub repositories by username, built using GitHub's public API.  
 ✅ Fetches real-time data | ✅ Clean and intuitive UI | ✅ Great for API practice
 
@@ -34,16 +34,11 @@ An app to search and explore GitHub repositories by username, built using GitHub
 
 ---
 
-## 📈 GitHub Stats
 
-![Zakir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakirkhan&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirkhan&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/zakirkhan) *(update this if needed)*  
-- 📧 zakirkhan@example.com *(replace with your real email)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/zakir-khan-191484289/)  
+- 📧 zakirkhan@example.com *(jakirkhan2855@gmail.com)*
 
 ---
 
