@@ -1,10 +1,10 @@
 # Hi there, I'm Zakir Khan 👋
 
-🎯 A dedicated **MERN Stack Developer** trained at **PW Skills, Jaipur**, passionate about building full-stack web applications and solving real-world problems.  
-🧠 Always learning, always building, always leveling up.
+ A dedicated **MERN Stack Developer** trained at **PW Skills, Jaipur**, passionate about building full-stack web applications and solving real-world problems.  
+ Always learning, always building, always leveling up.
 ---
 
-## 🔨 Tech Stack
+##  Tech Stack
 **Frontend:** React, HTML, CSS, JavaScript, Next.js  
 **Backend:** Node.js, Express  
 **Database:** MongoDB  
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 📬 [Chitthi – Realtime Chat App](https://chitthi-nu.vercel.app/)  
 A full-fledged MERN chat app with authentication, Socket.IO-based messaging, private rooms, and a responsive design.  
@@ -36,7 +36,7 @@ An app to search and explore GitHub repositories by username, built using GitHub
 
 
 
-## 📫 Let's Connect
+##  Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/zakir-khan-191484289/)  
 - 📧 zakirkhan@example.com *(jakirkhan2855@gmail.com)*
 
